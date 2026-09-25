@@ -1,0 +1,10 @@
+,p1_strategy,p2_strategy,n,u1_mean,u1_ci95,u2_mean,u2_ci95
+0,Take risk,Take risk,50,4.0,0.0,4.0,0.0
+1,Take risk,Avoid risk,50,0.0,0.0,3.0,0.0
+2,Take risk,Reasoning,50,4.0,0.0,4.0,0.0
+3,Avoid risk,Take risk,50,3.0,0.0,0.0,0.0
+4,Avoid risk,Avoid risk,50,3.0,0.0,3.0,0.0
+5,Avoid risk,Reasoning,50,3.0,0.0,0.0,0.0
+6,Reasoning,Take risk,50,4.0,0.0,4.0,0.0
+7,Reasoning,Avoid risk,50,0.0,0.0,3.0,0.0
+8,Reasoning,Reasoning,50,4.0,0.0,4.0,0.0
